@@ -24,8 +24,7 @@ span {
 
 .bgGrid {
 	background-size: 40px 40px;
-	background-image: linear-gradient(to right, grey 1px, transparent 1px),
-		linear-gradient(to bottom, grey 1px, transparent 1px);
+	background-image: linear-gradient(to right, grey 1px, transparent 1px), linear-gradient(to bottom, grey 1px, transparent 1px);
 }
 
 button,
@@ -64,4 +63,8 @@ button:focus-visible {
 
 .specialBtn:hover {
 	border-color: blue;
+}
+
+.dropShadow {
+	filter: drop-shadow(-10.8923px 14.523px 35.0973px rgba(29, 140, 242, 0.2));
 }
