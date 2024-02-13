@@ -4,7 +4,7 @@
 <header class="relative z-20 flex flex-col">
 	<div class="mx-auto flex w-full max-w-[1400px] items-center justify-between p-4 py-6">
 		<a href="/">
-			<h1 class="font-semibold">Swoley <span class="text-indigo-400">Moley</span></h1>
+			<h1 class="font-semibold">Gym <span class="text-indigo-400">Losos</span></h1>
 		</a>
 		<button class="grid place-items-center md:hidden">
 			<i class="fa-solid fa-bars"></i>
