@@ -1,5 +1,9 @@
-<section class={"min-h-screen flex flex-col px-4"}>
-  <div class="flex flex-col flex-1 max-w-[1400px] mx-auto w-full">
-    <slot />
-  </div>
+<script>
+	export let id;
+</script>
+
+<section {id} class={'flex min-h-screen flex-col px-4'}>
+	<div class="mx-auto flex w-full max-w-[1400px] flex-1 flex-col">
+		<slot />
+	</div>
 </section>
