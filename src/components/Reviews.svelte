@@ -1,6 +1,7 @@
 <script>
 	import ReviewCard from './ReviewCard.svelte';
 	import SectionWrapper from './SectionWrapper.svelte';
+	import Stars from './Stars.svelte';
 
 	let lim = true;
 
@@ -76,7 +77,7 @@
 		</button>
 		<div class="flex flex-col gap-10">
 			<p class="mx-auto text-lg font-semibold sm:text-xl md:text-2xl">Trusted by 1,349 people</p>
-			<!-- <Stars /> -->
+			<Stars />
 		</div>
 	</div>
 </SectionWrapper>
