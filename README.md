@@ -10,3 +10,6 @@ Buld a landing page with provided design to explore Svelte
 - HTML
 - Tailwind CSS
 - Svelte
+
+## Links
+[Vercel](https://svelte-gym-landing.vercel.app/)
