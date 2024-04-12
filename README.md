@@ -17,3 +17,19 @@ The main objective of this project is to create a visually appealing landing pag
 
 ## Demo
 Yo can check out the live demo of the project [here](https://svelte-gym-landing.vercel.app/)
+
+## Installation 
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/ddrigota/svelte-gym-landing.git
+```
+Navigate to the project directory:
+```bash
+cd svelte-gym-landing
+```
+Install dependencies and run in dev mode:
+```bash
+npm install
+npm run dev
+```
+
